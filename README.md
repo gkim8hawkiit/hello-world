@@ -11,6 +11,7 @@ delete branch1 at 12:28
 make branch2 at 12:29
 
 make changes to master at 12:29
+make another change to master 12:39
 
 make branch3 at 12:37
 
